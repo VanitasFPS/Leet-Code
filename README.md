@@ -20,3 +20,7 @@ Output: bab / aba
 Question 4: Bulb Switcher 3[Medium]
 Example:[2,1,3,5,4]
 Output:3
+
+Question 5:Minimum deletions to make characters unique{medium]
+Example:"aab"
+Output: 0
