@@ -12,3 +12,7 @@ Question 3: Median of two Sorted Arrays.[Hard]
 Example: nums1=[1,2] nums2=[3,4]
 Merged Array=[1,2,3,4]
 Median=(2+3)/2=2.5
+
+Question 3: Longest Palindromic Substring[Medium]
+Example: s=babad
+Output: bab / aba
