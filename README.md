@@ -16,3 +16,7 @@ Median=(2+3)/2=2.5
 Question 3: Longest Palindromic Substring[Medium]
 Example: s=babad
 Output: bab / aba
+
+Question 4: Bulb Switcher 3[Medium]
+Example:[2,1,3,5,4]
+Output:3
